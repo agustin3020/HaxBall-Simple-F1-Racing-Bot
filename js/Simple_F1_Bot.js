@@ -6,6 +6,12 @@ var Circuit2 = `{"name":"Sucre by NOW from HaxMaps","width":1650,"height":1750,"
 
 var _Circuit2 = {MinX: 2, MaxX: 32, MinY: -183, MaxY: -21, DriveDirection: -1, StartDirection: "X", Name: JSON.parse(Circuit2).name, BestTime: [999.99,undefined], MainColor: [0xD52B1E,0xF9E300,0x007934], AvatarColor: 0xFFFFFF, Angle: 90, Team: 2, ID: 2};
 
+var _Circuit3 = {"name" : "Monte Carlo - Circuit de Monaco by POPkORN","bg" : "bg" : { "type" : "hockey", "width" : 0, "height" : 0, "kickOffRadius" : 0, "cornerRadius" : 0 }, { "type" : "hockey", "width" : 0, "height" : 0, "kickOffRadius" : 0, "cornerRadius" : 0 }, 	
+
+var _Circuit3 = {width" : 2400, "height" : 2300, "spawnDistance" : 1380, "radius" : 15, "bCoef" : 1e-21, "invMass" : 100000, "damping" : 1.00093, "color" : "FEFF6B", "cMask" : [ "all" { "curve" : 36.55850830624847, "vis" : true, "color" : "F0BD4F", "bCoef" : 0.25, "cMask" : ["red","blue","ball" ], "v0" : 243, "v1" : 247 },
+																							 
+		
+
 //Same structure goes...
 
 var limit = 3;
